@@ -1,22 +1,22 @@
 {
-  "name": "parcel-project-template",
+  "name": "icecream",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://yukis-data.github.io/team-project-group19",
+  "homepage": "https://kaizer-maksym.github.io/icecream/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-project-group19/"
+    "build": "parcel build src/*.html --public-url /icecream/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/Kaizer-Maksym/icecream.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/Kaizer-Maksym/icecream/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
